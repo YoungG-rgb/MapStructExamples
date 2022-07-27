@@ -1,9 +1,7 @@
-package com.example.demo.models.entity;
+package com.example.demo.Ex1WithOneToManyAndLists.models.entity;
 
-import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
-import lombok.experimental.SuperBuilder;
 
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;

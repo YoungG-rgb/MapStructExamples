@@ -1,4 +1,4 @@
-package com.example.demo.models.entity;
+package com.example.demo.Ex1WithOneToManyAndLists.models.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.example.demo.models.dto;
+package com.example.demo.Ex1WithOneToManyAndLists.models.dto;
 
 import java.time.LocalDate;
 

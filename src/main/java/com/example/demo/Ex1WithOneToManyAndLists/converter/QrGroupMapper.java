@@ -1,7 +1,7 @@
-package com.example.demo.converter;
+package com.example.demo.Ex1WithOneToManyAndLists.converter;
 
-import com.example.demo.models.entity.QrGroup;
-import com.example.demo.models.dto.QrGroupDto;
+import com.example.demo.Ex1WithOneToManyAndLists.models.entity.QrGroup;
+import com.example.demo.Ex1WithOneToManyAndLists.models.dto.QrGroupDto;
 import org.mapstruct.InheritInverseConfiguration;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;

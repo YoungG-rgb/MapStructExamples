@@ -1,6 +1,4 @@
-package com.example.demo.models.dto;
-
-import com.example.demo.models.dto.QrInfoDto;
+package com.example.demo.Ex1WithOneToManyAndLists.models.dto;
 
 import java.time.LocalDate;
 import java.util.List;
